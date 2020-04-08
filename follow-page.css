@@ -1,0 +1,23 @@
+
+H1
+{color:#D9E0BE;text-align:center;font-style:helvetica blue;
+font-size:45px;
+}
+.follow{
+Color:black;
+font-Size:18px;
+Placeholder:social links;
+}
+.follow img
+{
+transition: 1s;
+padding: 10px;
+}
+.follow img:hover
+{
+filter: grayscale(100%);
+	transform: scale(1.1);
+
+}
+
+
